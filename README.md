@@ -2,5 +2,5 @@
 
 ### Проверка в js 
 * Проверка на обьект
-  * ``` typeof obj === 'object' && !== null ```
+  * ``` typeof obj === 'object' && obj !== null ```
   
