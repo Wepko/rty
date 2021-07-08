@@ -8,4 +8,10 @@
 * ``` arr.slice()```
 * ``` [...arr] ```
 * ``` Array.from(arr) ```
+
+### Поиск по массиву в js
+* arr.include
+* arr.find
+* arr.filter
+* arr.indexOf
   
